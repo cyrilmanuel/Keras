@@ -31,7 +31,7 @@ source /venv/bin/activate
 ## Install all packages with the requirements
 
 ```Terminal
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 Make sure your virtualenv is activated when you run this command, then pip will only install these packages for this virtualenv.
 
