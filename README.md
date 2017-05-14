@@ -22,13 +22,13 @@ cd Keras
 virtualenv venv
 ```
 
-# Activate the virtualenv (linux and OSX)
+## Activate the virtualenv (linux and OSX)
 
 ```terminal
 source /venv/bin/activate
 ```
 
-# Install all packages with the requirements
+## Install all packages with the requirements
 
 ```Terminal
 pip install -r requirements.txt
